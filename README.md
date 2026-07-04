@@ -39,6 +39,10 @@ Features a clean web UI and persistent conversation memory.
 - ui.py → Streamlit web interface
 - app.py → Terminal version with conversation logging
 
+## Live Demo
+
+[Try Iota here](https://iota-chatbot-1.streamlit.app)
+
 ## Author
 
 Mohammed Aatif Minhaj
